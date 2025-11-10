@@ -5,7 +5,7 @@ public class SCMLAB {
 		// TODO Auto-generated method stub
 
 		System.out.println("HELLO WORLD");
-		
+		System.out,println("Second");
 	}// end main
 
 }// end of class
